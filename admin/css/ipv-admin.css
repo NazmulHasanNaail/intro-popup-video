@@ -1,0 +1,8 @@
+@media (min-width : 991px){
+    .ipv-wrap{
+        display: flex;
+    }
+    .ipv-col{
+        width: 50%;
+    }
+}
